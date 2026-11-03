@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "title": "Evening class in session",
+    "category": "Education",
+    "caption": "Children at a Shiksha Saathi centre working through the day's lesson.",
+    "icon": "book",
+    "categoryId": "education"
+  },
+  {
+    "id": "g2",
+    "title": "Health camp queue",
+    "category": "Health",
+    "caption": "Families waiting for check-ups at a monthly camp.",
+    "icon": "shield",
+    "categoryId": "health"
+  },
+  {
+    "id": "g3",
+    "title": "Village meeting",
+    "category": "Community",
+    "caption": "Residents agreeing their priorities for the year.",
+    "icon": "users",
+    "categoryId": "community"
+  },
+  {
+    "id": "g4",
+    "title": "Scholarship day",
+    "category": "Education",
+    "caption": "Students receiving school kits and scholarship letters.",
+    "icon": "award",
+    "categoryId": "education"
+  },
+  {
+    "id": "g5",
+    "title": "Savings group",
+    "category": "Community",
+    "caption": "A Shakti group reviewing its monthly accounts.",
+    "icon": "briefcase",
+    "categoryId": "community"
+  },
+  {
+    "id": "g6",
+    "title": "Eye-care screening",
+    "category": "Health",
+    "caption": "Volunteers helping elders through vision tests.",
+    "icon": "eye",
+    "categoryId": "health"
+  },
+  {
+    "id": "g7",
+    "title": "Tree plantation",
+    "category": "Events",
+    "caption": "Neighbours planting saplings along the village road.",
+    "icon": "leaf",
+    "categoryId": "events"
+  },
+  {
+    "id": "g8",
+    "title": "Annual gathering",
+    "category": "Events",
+    "caption": "Volunteers and supporters at the yearly meet.",
+    "icon": "calendar",
+    "categoryId": "events"
+  },
+  {
+    "id": "g9",
+    "title": "New water point",
+    "category": "Community",
+    "caption": "The opening of a community-managed water point.",
+    "icon": "home",
+    "categoryId": "community"
+  }
+]

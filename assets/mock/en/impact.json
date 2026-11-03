@@ -1,0 +1,6 @@
+[
+  { "id": "s1", "value": 25000, "suffix": "+", "label": "people reached through our programmes" },
+  { "id": "s2", "value": 120, "suffix": "+", "label": "villages and wards served" },
+  { "id": "s3", "value": 850, "suffix": "+", "label": "active volunteers" },
+  { "id": "s4", "value": 1200, "suffix": "+", "label": "scholarships awarded" }
+]

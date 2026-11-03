@@ -1,0 +1,107 @@
+{
+  "brandName": "Janak Adhikari",
+  "organizationName": "Sangharsh Samajik Sanstha",
+  "tagline": "Education, health and dignity for every community",
+  "description": "Official website of Janak Adhikari, founder of Sangharsh Samajik Sanstha. Learn about our work in education, health, livelihoods and women's empowerment, and join us as a volunteer or partner.",
+  "keywords": [
+    "Janak Adhikari",
+    "Sangharsh Samajik Sanstha",
+    "social work",
+    "community development",
+    "NGO",
+    "volunteer",
+    "education",
+    "healthcare"
+  ],
+  "siteUrl": "https://www.example.org",
+  "navItems": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "About Janak",
+      "path": "/about"
+    },
+    {
+      "label": "Our Sanstha",
+      "path": "/sanstha"
+    },
+    {
+      "label": "Social work",
+      "path": "/services"
+    },
+    {
+      "label": "Gallery",
+      "path": "/gallery"
+    },
+    {
+      "label": "News & events",
+      "path": "/news"
+    },
+    {
+      "label": "Voices",
+      "path": "/testimonials"
+    },
+    {
+      "label": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "primaryCta": {
+    "label": "Join the movement",
+    "link": "/contact"
+  },
+  "contact": {
+    "phone": "+91 90000 00000",
+    "email": "contact@example.org",
+    "address": "Sangharsh Samajik Sanstha, Main Road, Your City, State 000000",
+    "hours": "Monday to Saturday, 10 am – 6 pm",
+    "inquiryTypes": [
+      "General enquiry",
+      "Volunteer with us",
+      "Partnership or CSR",
+      "Donation",
+      "Media or press"
+    ]
+  },
+  "socials": [
+    {
+      "platform": "facebook",
+      "label": "Facebook",
+      "url": "https://facebook.com/"
+    },
+    {
+      "platform": "instagram",
+      "label": "Instagram",
+      "url": "https://instagram.com/"
+    },
+    {
+      "platform": "youtube",
+      "label": "YouTube",
+      "url": "https://youtube.com/"
+    },
+    {
+      "platform": "twitter",
+      "label": "X (Twitter)",
+      "url": "https://x.com/"
+    },
+    {
+      "platform": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://linkedin.com/"
+    }
+  ],
+  "whatsapp": {
+    "number": "919000000000",
+    "message": "Hello! I would like to know more about Sangharsh Samajik Sanstha."
+  },
+  "footer": {
+    "about": "Sangharsh Samajik Sanstha works alongside communities to open doors to education, healthcare and fair livelihoods.",
+    "copyright": "© {year} Janak Adhikari – Sangharsh Samajik Sanstha. All rights reserved."
+  },
+  "callout": {
+    "title": "Stand with us. Volunteer, partner or donate.",
+    "text": "There is a role for everyone, from an afternoon at a health camp to long-term support for a programme. Tell us how you would like to help."
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "n1", "slug": "winter-health-camp-series", "type": "event",
+    "title": "Winter health camp series opens for registration",
+    "summary": "Free check-ups, eye tests and medicines across five blocks this winter.",
+    "content": [
+      "Sangharsh Samajik Sanstha will run a series of free health camps over the winter months, with general physicians, eye specialists and women's health volunteers on site.",
+      "Registration is open to everyone. Please bring any earlier medical papers you have. Volunteers are welcome to help with registration, translation and crowd support."
+    ],
+    "date": "2026-11-22", "location": "Community hall, Your City", "tags": ["Health", "Volunteer"]
+  },
+  {
+    "id": "n2", "slug": "annual-volunteer-meet", "type": "event",
+    "title": "Annual volunteer and supporters' meet",
+    "summary": "A day to share results, accounts and plans for the year ahead.",
+    "content": [
+      "Each year the Sanstha opens its books and its plans to volunteers, donors and neighbours.",
+      "This year's meet will include programme reports, a public question hour with Janak Adhikari and recognition for long-serving volunteers."
+    ],
+    "date": "2026-12-10", "location": "Town auditorium, Your City", "tags": ["Community", "Annual meet"]
+  },
+  {
+    "id": "n3", "slug": "scholarships-awarded-autumn", "type": "news",
+    "title": "120 students receive scholarships this autumn",
+    "summary": "New scholarships will help first-generation learners continue into secondary school.",
+    "content": [
+      "This autumn, 120 students received scholarships covering fees, books and transport. Most are the first in their families to reach this stage of school.",
+      "Janak Adhikari told families that the aim is simple: no child should leave school because of cost."
+    ],
+    "date": "2026-10-20", "tags": ["Education", "Scholarships"]
+  },
+  {
+    "id": "n4", "slug": "new-water-points-opened", "type": "news",
+    "title": "Three new community water points opened",
+    "summary": "Residents will manage and maintain the new water points themselves.",
+    "content": [
+      "Three villages now have safe, shared water points built with local labour and managed by village committees.",
+      "Each committee has been trained in upkeep and simple record-keeping so the points keep running for years."
+    ],
+    "date": "2026-09-14", "tags": ["Water", "Environment"]
+  },
+  {
+    "id": "n5", "slug": "women-enterprise-fair", "type": "news",
+    "title": "Women's enterprise fair draws record crowds",
+    "summary": "Shakti group members sold crafts, food and tailoring to hundreds of visitors.",
+    "content": [
+      "More than forty women-run businesses took part in this year's enterprise fair, many for the first time.",
+      "Several participants have since received bulk orders and are looking to expand."
+    ],
+    "date": "2026-08-02", "tags": ["Women", "Livelihood"]
+  }
+]

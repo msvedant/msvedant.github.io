@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "title": "संध्याकाळचा वर्ग सुरू",
+    "category": "शिक्षण",
+    "caption": "शिक्षा साथी केंद्रात मुले दिवसाचा धडा गिरवताना.",
+    "icon": "book",
+    "categoryId": "education"
+  },
+  {
+    "id": "g2",
+    "title": "आरोग्य शिबिरातील रांग",
+    "category": "आरोग्य",
+    "caption": "मासिक शिबिरात तपासणीसाठी वाट पाहणारी कुटुंबे.",
+    "icon": "shield",
+    "categoryId": "health"
+  },
+  {
+    "id": "g3",
+    "title": "गावातील बैठक",
+    "category": "समाज",
+    "caption": "रहिवासी वर्षासाठी आपले प्राधान्यक्रम ठरवताना.",
+    "icon": "users",
+    "categoryId": "community"
+  },
+  {
+    "id": "g4",
+    "title": "शिष्यवृत्ती दिन",
+    "category": "शिक्षण",
+    "caption": "विद्यार्थ्यांना शालेय साहित्य आणि शिष्यवृत्ती पत्रे प्रदान करताना.",
+    "icon": "award",
+    "categoryId": "education"
+  },
+  {
+    "id": "g5",
+    "title": "बचत गट",
+    "category": "समाज",
+    "caption": "शक्ती गट आपल्या मासिक हिशेबाचा आढावा घेताना.",
+    "icon": "briefcase",
+    "categoryId": "community"
+  },
+  {
+    "id": "g6",
+    "title": "नेत्र तपासणी",
+    "category": "आरोग्य",
+    "caption": "स्वयंसेवक ज्येष्ठांना दृष्टी तपासणीत मदत करताना.",
+    "icon": "eye",
+    "categoryId": "health"
+  },
+  {
+    "id": "g7",
+    "title": "वृक्षारोपण",
+    "category": "कार्यक्रम",
+    "caption": "शेजारी गावाच्या रस्त्याकडेला रोपे लावताना.",
+    "icon": "leaf",
+    "categoryId": "events"
+  },
+  {
+    "id": "g8",
+    "title": "वार्षिक मेळावा",
+    "category": "कार्यक्रम",
+    "caption": "वार्षिक मेळाव्यातील स्वयंसेवक आणि हितचिंतक.",
+    "icon": "calendar",
+    "categoryId": "events"
+  },
+  {
+    "id": "g9",
+    "title": "नवीन पाणवठा",
+    "category": "समाज",
+    "caption": "समाजाने सांभाळलेल्या पाणवठ्याचे उद्घाटन.",
+    "icon": "home",
+    "categoryId": "community"
+  }
+]

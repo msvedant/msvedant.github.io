@@ -1,0 +1,1 @@
+import{a}from"./chunk-DL6SMMTF.js";import"./chunk-7DYBJ27G.js";import"./chunk-IH5GO5JH.js";import"./chunk-L744KYYJ.js";import"./chunk-R7NIIZDT.js";import"./chunk-7QVI3PVL.js";import"./chunk-DE5YS6IX.js";import"./chunk-FAQSGSBA.js";import"./chunk-VNJ5AHHU.js";import"./chunk-2VMXMS7J.js";export{a as NewsListComponent};

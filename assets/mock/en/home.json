@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "title": "Every community deserves a fair start, and we show up until it gets one.",
+    "subtitle": "Janak Adhikari leads Sangharsh Samajik Sanstha, a people-first movement bringing schooling, healthcare and steady livelihoods to families that have waited too long.",
+    "primaryCta": { "label": "Join the movement", "link": "/contact" },
+    "secondaryCta": { "label": "Read Janak's story", "link": "/about" },
+    "portraitAlt": "Portrait of Janak Adhikari",
+    "badge": { "value": "15+", "label": "years working alongside communities" }
+  },
+  "intro": {
+    "title": "A leader who listens first, and a movement that acts next",
+    "paragraphs": [
+      "Sangharsh means struggle. For Janak Adhikari it has never been a slogan, it is the daily work of sitting with families, hearing what they need and not leaving until something changes.",
+      "Today the Sanstha runs programmes across education, health, women's empowerment and livelihoods, always led by the people they serve."
+    ],
+    "highlights": [
+      { "icon": "users", "title": "Community-led", "text": "Local volunteers shape every programme, from planning to follow-up." },
+      { "icon": "shield", "title": "Open about money", "text": "Accounts and outcomes are shared with supporters every year." },
+      { "icon": "book", "title": "Built to last", "text": "We train local people so the work continues after our teams leave." },
+      { "icon": "heart", "title": "Dignity first", "text": "Help is offered as a right, never as charity." }
+    ],
+    "cta": { "label": "Read the full story", "link": "/about" }
+  }
+}

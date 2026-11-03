@@ -1,0 +1,74 @@
+[
+  {
+    "id": "g1",
+    "title": "शाम की कक्षा जारी",
+    "category": "शिक्षा",
+    "caption": "शिक्षा साथी केंद्र में बच्चे दिन का पाठ करते हुए।",
+    "icon": "book",
+    "categoryId": "education"
+  },
+  {
+    "id": "g2",
+    "title": "स्वास्थ्य शिविर की कतार",
+    "category": "स्वास्थ्य",
+    "caption": "मासिक शिविर में जाँच की प्रतीक्षा करते परिवार।",
+    "icon": "shield",
+    "categoryId": "health"
+  },
+  {
+    "id": "g3",
+    "title": "गाँव की बैठक",
+    "category": "समुदाय",
+    "caption": "निवासी वर्ष की अपनी प्राथमिकताएँ तय करते हुए।",
+    "icon": "users",
+    "categoryId": "community"
+  },
+  {
+    "id": "g4",
+    "title": "छात्रवृत्ति दिवस",
+    "category": "शिक्षा",
+    "caption": "विद्यार्थियों को स्कूल किट और छात्रवृत्ति पत्र प्रदान करते हुए।",
+    "icon": "award",
+    "categoryId": "education"
+  },
+  {
+    "id": "g5",
+    "title": "बचत समूह",
+    "category": "समुदाय",
+    "caption": "शक्ति समूह अपने मासिक हिसाब की समीक्षा करते हुए।",
+    "icon": "briefcase",
+    "categoryId": "community"
+  },
+  {
+    "id": "g6",
+    "title": "नेत्र जाँच शिविर",
+    "category": "स्वास्थ्य",
+    "caption": "स्वयंसेवक बुज़ुर्गों की दृष्टि जाँच में मदद करते हुए।",
+    "icon": "eye",
+    "categoryId": "health"
+  },
+  {
+    "id": "g7",
+    "title": "वृक्षारोपण",
+    "category": "कार्यक्रम",
+    "caption": "पड़ोसी गाँव की सड़क किनारे पौधे लगाते हुए।",
+    "icon": "leaf",
+    "categoryId": "events"
+  },
+  {
+    "id": "g8",
+    "title": "वार्षिक सम्मेलन",
+    "category": "कार्यक्रम",
+    "caption": "वार्षिक मिलन में स्वयंसेवक और समर्थक।",
+    "icon": "calendar",
+    "categoryId": "events"
+  },
+  {
+    "id": "g9",
+    "title": "नया जल स्रोत",
+    "category": "समुदाय",
+    "caption": "समुदाय द्वारा संचालित जल स्रोत का उद्घाटन।",
+    "icon": "home",
+    "categoryId": "community"
+  }
+]

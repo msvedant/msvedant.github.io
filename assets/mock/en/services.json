@@ -1,0 +1,8 @@
+[
+  { "id": "education", "icon": "book", "title": "Education support", "summary": "Keeping children in school and helping them do well once they are there.", "details": ["Free evening learning centres", "Scholarships and school kits", "Career guidance for older students"] },
+  { "id": "health", "icon": "shield", "title": "Health camps", "summary": "Bringing doctors and medicines to places clinics rarely reach.", "details": ["General and eye check-ups", "Maternal and child health", "Referrals and follow-up visits"] },
+  { "id": "women", "icon": "users", "title": "Women's empowerment", "summary": "Savings groups, training and legal awareness led by women themselves.", "details": ["Self-help and savings groups", "Small business mentoring", "Rights and safety workshops"] },
+  { "id": "livelihood", "icon": "briefcase", "title": "Livelihood and skills", "summary": "Practical training that leads to work or a business of one's own.", "details": ["Trade and digital skills courses", "Links to local employers", "Micro-enterprise support"] },
+  { "id": "environment", "icon": "leaf", "title": "Water and environment", "summary": "Clean water, sanitation and greener neighbourhoods run by residents.", "details": ["Community water points", "Sanitation drives", "Tree planting and clean-ups"] },
+  { "id": "rights", "icon": "award", "title": "Rights and legal aid", "summary": "Plain-language help with documents, pensions and public schemes.", "details": ["Weekly help desk", "Paperwork and application support", "Referrals to legal professionals"] }
+]

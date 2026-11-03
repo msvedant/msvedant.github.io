@@ -1,0 +1,31 @@
+{
+  "title": "The story behind the struggle",
+  "lead": "From volunteering in his own neighbourhood to leading a movement across many communities, Janak Adhikari's work has one thread: people know best what their community needs.",
+  "biography": [
+    "Janak Adhikari began as a young volunteer, running evening classes for children who could not afford tuition. What he saw there, bright students held back by cost and distance, shaped everything that followed.",
+    "In the years since, he has organised health camps, taken local grievances to district offices and helped families claim entitlements they did not know they had. He founded Sangharsh Samajik Sanstha to give that work a lasting home.",
+    "He remains in the field every week. His approach is simple: listen, act with the community, publish the results and invite criticism."
+  ],
+  "portraitAlt": "Janak Adhikari speaking at a community gathering",
+  "quickFacts": [
+    { "label": "Role", "value": "Founder and president, Sangharsh Samajik Sanstha" },
+    { "label": "Focus", "value": "Education, health, livelihoods, women's empowerment" },
+    { "label": "Based in", "value": "Your City, State" },
+    { "label": "Languages", "value": "English, Hindi, Nepali" }
+  ],
+  "achievements": [
+    { "id": "a1", "icon": "book", "title": "Community learning centres", "description": "Set up free after-school centres that keep first-generation learners in school.", "year": "2012" },
+    { "id": "a2", "icon": "shield", "title": "Free health camps", "description": "Led regular screening and eye-care camps reaching remote hamlets.", "year": "2015" },
+    { "id": "a3", "icon": "users", "title": "Women's self-help groups", "description": "Helped hundreds of women start savings groups and small businesses.", "year": "2017" },
+    { "id": "a4", "icon": "leaf", "title": "Clean water and sanitation", "description": "Mobilised villages to build and maintain shared water points.", "year": "2019" },
+    { "id": "a5", "icon": "award", "title": "Relief in times of crisis", "description": "Coordinated volunteers and supplies during floods and the pandemic.", "year": "2020" },
+    { "id": "a6", "icon": "home", "title": "Recognised for public service", "description": "Honoured by local institutions for sustained service to the community.", "year": "2023" }
+  ],
+  "timeline": [
+    { "year": "2009", "title": "First evening classes", "description": "Starts a free tuition class with a handful of children." },
+    { "year": "2011", "title": "Sanstha founded", "description": "Registers Sangharsh Samajik Sanstha with a small volunteer team." },
+    { "year": "2015", "title": "Health programme begins", "description": "Runs the first of many free medical camps." },
+    { "year": "2019", "title": "Livelihood training", "description": "Launches skills and enterprise support for women and youth." },
+    { "year": "2024", "title": "Statewide outreach", "description": "Expands to new districts through local partner groups." }
+  ]
+}
